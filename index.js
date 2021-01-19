@@ -12,24 +12,24 @@ const speed = require('performance-now');
 
 //Setting
 
-const apivhtear = 'apikey';
-const apibarbar = 'apikey';
-const tobzkey = 'apikey';
-const BotName = 'Lexa';
+const apivhtear = 'aryaXrey';
+const apibarbar = 'Nkwp9oR7Eg9yyKbejBpm';
+const tobzkey = 'BotWeA';
+const BotName = 'R Bot';
 const wa = 'https://chat.whatsapp.com/FQNUK5VFD68GZaB0UlXjst';
 const eror = 'Info fitur Error';
 const ow = 'Mrf.zvx';
-const nomorowner = '082223014661';
-const ovo = '082223014661';
-const pulsa = '082223014661';
-const dana = '082223014661';
-const instagram = 'http://www.instagram.com/mrf.zvx';
-const aktif = '08:00 - 22:00';
+const nomorowner = '89677763976';
+const ovo = 'ga ada';
+const pulsa = '089677763976';
+const dana = 'ga ada';
+const instagram = 'http://www.instagram.com/rey.bot02';
+const aktif = '24 Jam';
 const vcard = 'BEGIN:VCARD\n'
   + 'VERSION:3.0\n'
   + 'FN:Mrf.zvx\n' // Nama kamu
   + 'ORG:Lexa;\n' // Nama bot
-  + 'TEL;type=CELL;type=VOICE;waid=6282223014661:+62 822-2301-4661\n' //Nomor whatsapp kamu
+  + 'TEL;type=CELL;type=VOICE;waid=6289677763976:+62 896-7776-3976\n' //Nomor whatsapp kamu
   + 'END:VCARD'
 //
 const
