@@ -20,7 +20,7 @@
 
 Cobain juga nih
 
-[TERMUX WHATSAPP BOT V2](https://github.com/NazwaS/termux-whatsapp-bot)
+[WHATSAPP BOT](https://github.com/RTeam1/wabot1)
 
 Re-upload numpang ganti nama gabakal bikin lu pro
 </div>
@@ -75,7 +75,7 @@ Beberapa fitur berjalan menggunakan apikey, jika apikey tidak tersedia maka bebe
 **Lalu clone repo**
 ```bash
 > git clone https://github.com/RTeam1/wabot2
-> cd termux-whatsapp-bot
+> cd wabot2
 ```
 **Lanjutkan dengan**
 ```bash
@@ -106,7 +106,7 @@ Beberapa fitur berjalan menggunakan apikey, jika apikey tidak tersedia maka bebe
 * Apikey tobz
 * Kontak whatsapp owner
 
-Custom di sini [SETTING](https://github.com/mrfzvx12/Arelbot/blob/master/index.js/#L13)
+Custom di sini [SETTING](https://github.com/RTeam1/wabot2/blob/master/index.js/#L13)
 
 ## Settings di termux
 
