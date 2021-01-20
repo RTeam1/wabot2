@@ -33,14 +33,14 @@ Re-upload numpang ganti nama gabakal bikin lu pro
 #### Jangan lupa pilih watch agar kalian bisa dapat notifikasi ketika update
 
 <div align="center">
-    <img alt="ARELBOT" src ="https://user-images.githubusercontent.com/72728486/104745189-62cd8a80-5780-11eb-987d-1b77e5989613.gif" width="50">
+    <img alt="R BOT" src ="https://user-images.githubusercontent.com/72728486/104745189-62cd8a80-5780-11eb-987d-1b77e5989613.gif" width="50">
 </div>
 
 **Semua fitur bergantung pada api, jika mengalami error berarti api yang di pakai sedang bermasalah**
 
 
 ### Sebelum install tes fitur dulu disini
-* [TES BOT](https://chat.whatsapp.com/FQNUK5VFD68GZaB0UlXjst)
+* [TES BOT](eror)
 
 ## Alat
 
@@ -74,7 +74,7 @@ Beberapa fitur berjalan menggunakan apikey, jika apikey tidak tersedia maka bebe
 ```
 **Lalu clone repo**
 ```bash
-> git clone https://github.com/mrfzvx12/termux-whatsapp-bot
+> git clone https://github.com/RTeam1/wabot2
 > cd termux-whatsapp-bot
 ```
 **Lanjutkan dengan**
