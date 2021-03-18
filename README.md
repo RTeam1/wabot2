@@ -8,6 +8,16 @@
 <a href="#"><img title="MAINTENED" src="https://img.shields.io/badge/MAINTENED-YES-blue.svg"</a>
 </p>
 
+
+## Information
+```bash
+#### Change Owner Number & package name sticker & limit & name contacts, name Owner, Name bot in setting.json
+- [Cara Penginstallan Bot](https://youtu.be/)
+ownerNumber = "62823xxxxxxxxx"
+- Change [adminNumber](https://github.com/RTeam1/wabot2/blob/main/Owner/setting.json#L1) in setting.json to be your number
+[] -> ["62823xxxxxxxx"]
+```
+
 ## Clone this project
 
 ```bash
@@ -73,7 +83,5 @@ you've just cloned!!
 * [`WhatsApp`](wa.me/6289677763976)
 ### Donate
 * [`Saweria`](https://saweria.co/rey404)
-* [`Trakteer`](https://trakteer.id/rey404)
-* [`Dana : +6289677763976`]
-* [`Ovo : +6289677763976`]
-* [`Pulsa : +6289677763976`]
+* [`Dana : +62895710073737`]
+* [`Pulsa : +628233429775`]
