@@ -66,12 +66,14 @@ you've just cloned!!
 ## Special Thanks to
 * [`adiwajshing/Baileys`](https://github.com/adiwajshing/Baileys)
 * [`Mhankbarbar`](https://github.com/MhankBarBar)
-* [`Mhankbarbar`](https://github.com/affisjunianto)
+* [`Affis Junianto`](https://github.com/affisjunianto)
 
 
 ## whatsapp number
 * [`WhatsApp`](wa.me/6289677763976)
 ### Donate
 * [`Saweria`](https://saweria.co/rey404)
-* [`Dana : +62895710073737`]
-* [`Pulsa : +628233429775`]
+* [`Trakteer`](https://trakteer.id/rey404)
+* [`Dana : +6289677763976`]
+* [`Ovo : +6289677763976`]
+* [`Pulsa : +6289677763976`]
