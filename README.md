@@ -12,7 +12,7 @@
 ## Information
 
 #### Change Owner Number & package name sticker & limit & name contacts, name Owner, Name bot in setting.json
-- [Cara Penginstallan Bot](https://youtu.be/)
+- [Cara Penginstallan Bot](https://youtu.be/3EmgcMYDMKs)
 
 - Change [adminNumber](https://github.com/RTeam1/wabot2/blob/main/Owner/setting.json#L1) in setting.json to be your number
 [] -> ["62823xxxxxxxx"]
