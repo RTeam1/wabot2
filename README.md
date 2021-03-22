@@ -86,7 +86,7 @@ you've just cloned!!
 
 
 ## whatsapp number
-* [`WhatsApp`](wa.me/6289677763976)
+* [`WhatsApp`](http://Wa.me/6289677763976)
 * [`Group WhatsApp`](https://chat.whatsapp.com/ChicaCCTmgH3LPZ6EmnQaG)
 * [`YouTube`](https://youtu.be/3EmgcMYDMKs)
 * [`Instagram`](instagram.com/Rey.bot02)
