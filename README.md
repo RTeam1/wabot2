@@ -41,6 +41,12 @@ you've just cloned!!
 > npm start
 ```
 
+### if npm Error?
+```bash
+> node index.js
+```
+
+
 ## Features
 
 | Sticker Creator |                Feature           |
