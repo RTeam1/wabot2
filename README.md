@@ -81,6 +81,9 @@ you've just cloned!!
 
 ## whatsapp number
 * [`WhatsApp`](wa.me/6289677763976)
+* [`Group WhatsApp`](https://chat.whatsapp.com/ChicaCCTmgH3LPZ6EmnQaG)
+* [`YouTube`](https://youtu.be/3EmgcMYDMKs)
+* [`Instagram`](instagram.com/Rey.bot02)
 ### Donate
 * [`Saweria`](https://saweria.co/rey404)
 * [`Dana : +62895710073737`]
